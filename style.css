@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #333;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+}
+
+ul {
+
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Basic styles */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ul li a:hover {
+    color: red;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #da2e2e;
+    color: #fff;
+}
+
+/* Navigation bar styles */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    line-height: 50px;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Portfolio styles */
+
+
+.portfolio article {
+    margin: 10px;
+    text-align: center;
+}
+
+/* Contact form styles */
+.contact {
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+/* Footer styles */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
